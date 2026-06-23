@@ -1,9 +1,19 @@
 fileFormatVersion: 2
-guid: e8f0e6b0366547c478d4eceb4bec24d7
+guid: 2adcc93b5468f0f44a3d5c544985f2e5
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light01
+    second: {fileID: 2100000, guid: 3ebd9c414287c7f47aed6ee1fe77b177, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Workshop_Wall
+    second: {fileID: 2100000, guid: e561bc597f301694bb8b65d1fe2a97da, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -48,7 +58,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
