@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Workshop.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Messepreview.unity
     guid: 9bf1722124cc24249ba3c2232539b184
+  - enabled: 1
+    path: Assets/Scenes/VR_Workshop_Shworoom.unity
+    guid: 131476d1418e4794b83fa63b693026e3
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: e0f5f29879fc64e48be92f1a67a229f0,
       type: 2}
